@@ -1,6 +1,6 @@
-# New Feature - ksatria
+# New Feature
 
-_newfeature.ksatria.codebots.app_
+_codebots.app_
 
 ## Chosen Bots
 ### Client-side Bot
